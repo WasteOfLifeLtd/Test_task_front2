@@ -1,0 +1,14 @@
+{
+  "name": "test_task_front2",
+  "version": "1.0.0",
+  "description": "hopefully making node.js work",
+  "main": "whatever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
